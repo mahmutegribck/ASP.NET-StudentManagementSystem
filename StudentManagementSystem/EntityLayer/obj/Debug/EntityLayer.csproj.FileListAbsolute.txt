@@ -1,0 +1,6 @@
+C:\Users\mahmu\Desktop\webASp\SummerSchoolProject\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\mahmu\Desktop\webASp\SummerSchoolProject\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\mahmu\Desktop\webASp\SummerSchoolProject\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\Desktop\webASp\SummerSchoolProject\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\mahmu\Desktop\webASp\SummerSchoolProject\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\mahmu\Desktop\webASp\SummerSchoolProject\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache

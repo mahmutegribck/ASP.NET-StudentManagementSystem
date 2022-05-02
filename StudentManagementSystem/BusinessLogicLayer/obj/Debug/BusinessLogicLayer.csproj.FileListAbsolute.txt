@@ -1,0 +1,11 @@
+C:\Users\mahmu\Desktop\webASp\SummerSchoolProject\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\mahmu\Desktop\webASp\SummerSchoolProject\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\mahmu\Desktop\webASp\SummerSchoolProject\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mahmu\Desktop\webASp\SummerSchoolProject\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\mahmu\Desktop\webASp\SummerSchoolProject\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mahmu\Desktop\webASp\SummerSchoolProject\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\mahmu\Desktop\webASp\SummerSchoolProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\mahmu\Desktop\webASp\SummerSchoolProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\Desktop\webASp\SummerSchoolProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\mahmu\Desktop\webASp\SummerSchoolProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\mahmu\Desktop\webASp\SummerSchoolProject\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

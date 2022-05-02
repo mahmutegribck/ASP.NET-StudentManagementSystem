@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "80e2933b-82d8-487d-b68a-28f1d53ee519": {
+      "ProjectGuid": "80e2933b-82d8-487d-b68a-28f1d53ee519",
+      "DisplayName": "SummerSchoolProject",
+      "ColorIndex": 0
+    },
+    "c71a5990-cbdb-4888-b656-2e37b7efb817": {
+      "ProjectGuid": "c71a5990-cbdb-4888-b656-2e37b7efb817",
+      "DisplayName": "StudentManagementSystem",
+      "ColorIndex": 1
+    },
+    "49a75e33-7114-40e6-a701-5b8e85e97f1d": {
+      "ProjectGuid": "49a75e33-7114-40e6-a701-5b8e85e97f1d",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 2
+    },
+    "7b3b0b9f-2620-485d-a38b-dd06e4dacb52": {
+      "ProjectGuid": "7b3b0b9f-2620-485d-a38b-dd06e4dacb52",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
